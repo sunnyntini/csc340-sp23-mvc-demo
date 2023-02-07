@@ -18,6 +18,7 @@ import org.springframework.web.client.RestTemplate;
  * @author sunny
  */
 @Controller
+@RequestMapping("/univ")
 public class UniversityController {
 
     @GetMapping("/universities")
