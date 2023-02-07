@@ -1,6 +1,6 @@
 # csc340-sp23-mvc-demo
 
-## Demo for a simple MVC app service using SpringBoot.
+## Demo for a simple MVC service using SpringBoot.
 - Clone the project and open it in NetBeans
 - Clean and Build the project
 - Run->Set Project Configuration->Customize->Run->Main Class->Browse->Select MvcDemoApplication.java
